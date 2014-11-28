@@ -1,5 +1,5 @@
 {
-    "name" : "csvjson" ,
+    "name" : "csvjson.js" ,
     "description" : "A simple javascript file to convert between CSV and JSON" ,
     "version":"1.0.0",
     "main": "csvjson.js",
